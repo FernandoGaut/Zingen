@@ -1,7 +1,7 @@
 #hero {
   text-align: center;
  
-  & img[src*= "music-bars"] {
+  & img[src*="mmusic-bars"] {
     width: 12.85rem;
   }
 
